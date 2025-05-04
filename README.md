@@ -1,3 +1,3 @@
 # final-proje
 
-##iklim değişikliğini önlemek için toplu taşımayı kullanmayı teşvik eden bir websitesi oluşturabiir
+##iklim değişikliğini durdurabilmek için fosil yakıt kullanmayı bırakıp yenilenebilir enerjiye teşvik eden bir site
